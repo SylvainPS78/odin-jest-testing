@@ -1,10 +1,10 @@
 TN:
-SF:src/sum.js
-FN:1,sum
+SF:src/capitalize.js
+FN:1,capitalize
 FNF:1
 FNH:1
-FNDA:1,sum
-DA:2,1
+FNDA:4,capitalize
+DA:2,4
 LF:1
 LH:1
 BRF:0
